@@ -14,4 +14,4 @@
 - [x] User can also enter multiple choice answers when creating a card
 - [x] App is further styled and customized!
 
-<img src="http://g.recordit.co/p1KiG0qyGe.gif" width="200" height="400" /> 
+<img src="http://g.recordit.co/p1KiG0qyGe.gif" width="300" height="600" /> 

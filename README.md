@@ -54,4 +54,4 @@ A flashcard app with extended features for user experience.
 - [x] Further customize and style the card
 - [x] Add a button that will toggle hiding and showing the answer choices
 
-<img src="http://g.recordit.co/zhBG38UNsd.gif" width="200" height="400" />  
+<img src="http://g.recordit.co/zhBG38UNsd.gif" width="300" height="600" />  

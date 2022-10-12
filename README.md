@@ -3,11 +3,9 @@
 ## Lab 3
 
 ### App Description
-`TODO://` A flashcard app with extended features for user experience.
+A flashcard app with extended features for user experience.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
 <img src="YOUR_GIF_URL_HERE" width=200><br>
 
 ## Required
@@ -19,6 +17,7 @@
 - [ ] Flashcards are shown in random order instead of the order they were created in
 - [ ] User can edit a card and see the edit saved when they browse through their deck of cards
 - [ ] User can create flashcards with multiple answers and be able to browse through cards with multiple choice answers shown
+
 
 ## Lab 2
 

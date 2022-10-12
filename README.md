@@ -1,6 +1,6 @@
 # Flashify
 
-## Lab 3
+# Lab 3
 
 ### App Description
 A flashcard app with extended features for user experience.
@@ -19,7 +19,7 @@ A flashcard app with extended features for user experience.
 - [ ] User can create flashcards with multiple answers and be able to browse through cards with multiple choice answers shown
 
 
-## Lab 2
+# Lab 2
 
 ## Required
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
